@@ -21,3 +21,8 @@ represented.
 Recommended(but not restricted to): Splash animation and loader.
 - Session management: the state of the app has to be saved constantly so even if the
 user closes the application, they recover the data with no problems.
+
+## How to start project
+
+`yarn android` for android
+`yarn ios` for iOS
